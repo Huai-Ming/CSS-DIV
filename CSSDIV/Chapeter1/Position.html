@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #box {
+            background-color: black;
+            width: 600px;
+            height: 600px;
+        }
+
+        #left {
+            background-color: AppWorkspace;
+            width: 150px;
+            height: 150px;
+            margin: 10px;
+            border: 1px;
+            float: left;
+        }
+
+        #main {
+            /*画地为牢*/
+
+            /*Postion: relative*/
+            /*background-color: antiquewhite;
+            position:relative;
+            left:40px;
+            top:40px;
+            height: 200px;
+            width: 200px;
+            float: left;*/
+
+            /*Postion:Absolute*/
+            background-color: antiquewhite;
+            position:absolute;
+            left:40px;
+            top:40px;
+            height: 200px;
+            width: 200px;
+            float: left;
+        }
+
+        #right {
+            background-color: bisque;
+            width: 150px;
+            height: 150px;
+            margin: 10px;
+            border: 1px;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <div id="top">Top</div>
+    <div id="box">
+        <div id="left">Left</div>
+        <div id="main">Main</div>
+        <div id="right">Right</div>
+    </div>
+    <div id="botom">Botom</div>
+</body>
+</html>

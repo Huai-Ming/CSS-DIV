@@ -1,0 +1,6 @@
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\bin\Chapeter1.dll.config
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\bin\Chapeter1.dll
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\bin\Chapeter1.pdb
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\obj\Debug\Chapeter1.csprojResolveAssemblyReference.cache
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\obj\Debug\Chapeter1.dll
+C:\Users\lihuai\Documents\GitHub\CSS+DIV\CSSDIV\Chapeter1\obj\Debug\Chapeter1.pdb
