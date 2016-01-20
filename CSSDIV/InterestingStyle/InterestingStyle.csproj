@@ -69,11 +69,13 @@
     <Content Include="background-image\Index.html" />
     <Content Include="border-radius\Index.html" />
     <Content Include="box-shadow\Index.html" />
+    <Content Include="emptySelector\index.html" />
     <Content Include="font-face\Index.html" />
     <Content Include="Interesting1\Index.html" />
     <Content Include="Interesting1\Style.css" />
     <Content Include="Interesting2\Index.html" />
     <Content Include="Interesting2\style.css" />
+    <Content Include="notSelector\index.html" />
     <Content Include="propertySelector\index.html" />
     <Content Include="rootSelector\index.html" />
     <Content Include="text-shadow\Index.html" />
